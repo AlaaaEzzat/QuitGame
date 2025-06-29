@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8018853a9ddf2de4587ca84c0ee3447b, type: 3}
+  m_Name: MultiplayerQuestions
+  m_EditorClassIdentifier: 
+  QuizQuestions:
+  - questionText: What is the capital city of France?
+    answers:
+    - Berlin
+    - Madrid
+    - Paris
+    - Rome
+    correctAnswerIndex: 2
+  - questionText: Which planet is known as the Red Planet?
+    answers:
+    - Earth
+    - Venus
+    - Mars
+    - 'Jupiter  '
+    correctAnswerIndex: 2
+  - questionText: Which language is primarily used for developing iOS applications?
+    answers:
+    - Java
+    - Swift
+    - Kotlin
+    - Python
+    correctAnswerIndex: 1
+  - questionText: What does CPU stand for?
+    answers:
+    - Central Processing Unit
+    - Computer Processing Utility
+    - Control Program Unit
+    - Central Power Unit
+    correctAnswerIndex: 0
+  - questionText: Which year did the first man land on the moon?
+    answers:
+    - 1959
+    - 1969
+    - 1979
+    - 1989
+    correctAnswerIndex: 1
