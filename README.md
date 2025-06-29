@@ -10,7 +10,7 @@ This is the final delivery of the Multiplayer Quiz Game project.
 - Backend integration with Supabase for dynamic question loading.
 - Multiplayer sync barrier and proper result comparison with win/lose display.
 
-- ## ✅ External Tools Used:
+## ✅ External Tools Used:
 - From unity registry (Editor Coroutines)
 - DOTween (HOTween v2)
 - Photon (PUN 2)
